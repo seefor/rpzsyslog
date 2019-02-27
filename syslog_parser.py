@@ -2,7 +2,7 @@ import re
 import sys
 import argparse
 
-__author__ = 'sif.baksh@gmail.com'
+__author__ = 'sifbaksh@gmail.com'
 __version__ = "$Revision: 1.6 $"
 '''
 TODO
